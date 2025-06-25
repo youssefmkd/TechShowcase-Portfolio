@@ -21,7 +21,7 @@ Clone and run locally:
 - npm install
 - npm start
 
-🎨 Features
+## 🎨 Features
 
 - Home section with your photo, name, title, and LinkedIn & GitHub links.
 - About Me section including experience, projects, background description, and downloadable CV.
