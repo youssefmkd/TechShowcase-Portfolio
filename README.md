@@ -16,7 +16,7 @@ A professionally designed, fully responsive developer portfolio created using Re
 Clone and run locally:
 
 - open bash
-- git clone https://github.com/your-username/TechShowcase-Portfolio.git
+- git clone https://github.com/youssefmkd/TechShowcase-Portfolio.git
 - cd TechShowcase-Portfolio
 - npm install
 - npm start
