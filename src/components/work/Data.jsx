@@ -3,6 +3,7 @@ import Work2 from "../../assets/Work2.png";
 import Work3 from "../../assets/Work3.png";
 import Work4 from "../../assets/Work4.png";
 import Work5 from "../../assets/Work5.png";
+import Work6 from "../../assets/Work6.png";
 
 export const projectsData = [
 {
@@ -40,6 +41,13 @@ export const projectsData = [
     category: "Quick-Builds",
     demo: "https://youssefmkd.github.io/Mini-Projects/Vanilla-XO/",
 },
+{
+    id: 6,
+    image: Work6,
+    title: "WeatherJS",
+    category: "Quick-Builds",
+    demo: "https://youssefmkd.github.io/Mini-Projects/WeatherJS/",
+},
 ];
 
 export const projectsNav = [
@@ -47,12 +55,9 @@ export const projectsNav = [
         name: 'all',
     },
     {
-        name: 'Quick-Builds',
-    },
-    {
-        name: 'Coursework',
-    },
-    {
         name: 'Web-Applications',
+    },
+    {
+        name: 'Quick-Builds',
     },
 ];
